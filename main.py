@@ -1,3 +1,4 @@
+https://colab.research.google.com/gist/mohanvemulakonda/09614f0fdd0084081123cc7dc2146e3c/intellegam-pdf-to-md-claude.ipynb
 #Anthropic API case
 #install PyMuPDF & Anthropic
 #reading the PDF
